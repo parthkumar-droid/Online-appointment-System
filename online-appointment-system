@@ -1,0 +1,9 @@
+online-appointment-system/
+│
+├── app.py
+├── database.db
+├── requirements.txt
+├── README.md
+└── templates/
+      └── index.html
+      
